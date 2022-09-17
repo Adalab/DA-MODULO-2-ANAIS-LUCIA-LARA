@@ -1,5 +1,5 @@
 ,case_number,year,country,activity,age,species_,date,mes,fatal_,sex2,nuevas_edades
-0,1800.00.00,1977,seychelles,a corsair's boat was overturned,,,1800,,y,F,27.301693925233646
+0,1800.00.00,1977,seychelles,a corsairs boat was overturned,,,1800,,y,F,27.301693925233646
 1,1797.05.28.R,1977,,Dropped overboard,,,Reported May-28-1797,May,y,M,27.301693925233646
 2,1792.09.12,1977,england,Fishing,,,12-Sep-1792,Sep,y,M,27.301693925233646
 3,1791.00.00,1977,australia,Surfing,,,1791,,y,F,27.301693925233646
@@ -16,7 +16,7 @@
 14,1771.07.12.R,1977,usa,Fishing,,,Reported 12-Jul-1771,Jul,y,M,27.301693925233646
 15,1767.00.00,1977,france,Bathing,,Unspecified,1767,,,M,27.301693925233646
 16,1764.00.00,1977,spain,Swimming,,,1764,,y,M,27.301693925233646
-17,1758.00.00,1977,mediterranean sea,"Fell overboard from a frigate & was swallowed by a shark. The captain fired a gun at the shark, and ""the creature cast the man out of his throat.""",,Unspecified,1758,,n,M,27.301693925233646
+17,1758.00.00,1977,mediterranean sea,"Fell overboard from a frigate & was swallowed by a shark. The captain fired a gun at the shark, and the creature cast the man out of his throat.",,Unspecified,1758,,n,M,27.301693925233646
 18,1753.10.27.R,1977,jamaica,Fell overboard,,,Reported 27-Oct-1753,Oct,y,M,27.301693925233646
 19,1751.07.27,1977,usa,Swimming,,,27-Jul-1751,Jul,y,M,27.301693925233646
 20,1749.00.00,1977,cuba,Swimming,14,,1749,,n,M,14.0
@@ -93,7 +93,7 @@
 91,ND.0090,1977,vanuatu,Surfing,,,"No date, Before Aug-1989",Aug,y,F,27.301693925233646
 92,ND.0089,1977,vanuatu,Attempting to drive shark from area,,Unspecified,"No date, Before Aug-1987",Aug,n,M,27.301693925233646
 93,ND.0088,1977,iran,Surfing,,Bull,"No date, Before 1987",,n,M,27.301693925233646
-94,ND.0087,1977,usa,Skin diving. Grabbed shark's tail; shark turned & grabbed diver's ankle & began towing him to deep water,19,Unspecified,"No date, Before  1975",,n,M,19.0
+94,ND.0087,1977,usa,Skin diving. Grabbed sharks tail; shark turned & grabbed divers ankle & began towing him to deep water,19,Unspecified,"No date, Before  1975",,n,M,19.0
 95,ND.0086,1977,papua new guinea,Scuba diving,,Unspecified,"No date, Before 1975",,y,M,27.301693925233646
 96,ND.0085,1977,red sea?,Free diving,,,"No date, Before 1969",,n,F,27.301693925233646
 97,ND.0084,1977,south africa,Crossing river on a raft,,,"No date, Before 3-Jan-1967",Jan,y,M,27.301693925233646
@@ -860,7 +860,7 @@
 858,2013.03.29,2013,seychelles,Free diving,34,,29-Mar-2013,Mar,n,M,34.0
 859,2013.03.21.R,2013,belize,Snorkeling,,Unspecified,Reported 21-Mar-2013,Mar,n,F,27.301693925233646
 860,2013.03.21,2013,bahamas,Fly fishing,50,,21-Mar-2013,Mar,n,M,50.0
-861,2013.03.16.b,2013,south africa,Fishing - 'tag & release',30,Unspecified,16-Mar-2013,Mar,n,M,30.0
+861,2013.03.16.b,2013,south africa,Fishing - tag & release,30,Unspecified,16-Mar-2013,Mar,n,M,30.0
 862,2013.03.16.a,2013,south africa,Surfing,,,16-Mar-2013,Mar,n,M,27.301693925233646
 863,2013.03.12,2013,jamaica,Spearfishing,68,Tiger,12-Mar-2013,Mar,y,M,69.0
 864,2013.03.10.b,2013,australia,Spearfishing,28,Unspecified,10-Mar-2013,Mar,n,M,28.0
@@ -1458,7 +1458,7 @@
 1456,2008.02.06,2008,usa,Surf-skiing,,Unspecified,06-Feb-2008,Feb,n,M,27.301693925233646
 1457,2008.01.30,2008,japan,Diving,,Unspecified,2008.01.30,,,M,27.301693925233646
 1458,2008.01.29,2008,south africa,Surf-skiing,42,Unspecified,29-Jan-2008,Jan,n,M,42.0
-1459,2008.01.27,2008,australia,Accidentally stood on hooked shark's tail before attempting to gut it ,20,Unspecified,27-Jan-2008,Jan,n,M,20.0
+1459,2008.01.27,2008,australia,Accidentally stood on hooked sharks tail before attempting to gut it ,20,Unspecified,27-Jan-2008,Jan,n,M,20.0
 1460,2008.01.19.R,2008,new zealand,Wading,,Unspecified,Reported 19-Jan-2008,Jan,,M,27.301693925233646
 1461,2008.01.14,2008,new zealand,Attempting to chase shark out to sea,,Unspecified,14-Jan-2008,Jan,n,M,27.301693925233646
 1462,2008.01.10,2008,usa,Surfing,20,Unspecified,10-Jan-2008,Jan,n,M,20.0
@@ -1748,7 +1748,7 @@
 1746,2005.06.04,2005,south africa,Spearfishing (Free diving),22,White,04-Jun-2005,Jun,y,M,22.0
 1747,2005.06.02,2005,usa,Wading,6,,02-Jun-2005,Jun,n,M,6.0
 1748,2005.05.28,2005,usa,Swimming,33,Unspecified,28-May-2005,May,n,M,33.0
-1749,2005.05.27,2005,usa,Crouching in 2' of water,,Unspecified,27-May-2005,May,n,F,27.301693925233646
+1749,2005.05.27,2005,usa,Crouching in 2 of water,,Unspecified,27-May-2005,May,n,F,27.301693925233646
 1750,2005.05.25,2005,south africa,Surfing,32,Unspecified,25-May-2005,May,n,M,32.0
 1751,2005.05.15,2005,australia,Spearfishing,,Unspecified,15-May-2005,May,n,M,27.301693925233646
 1752,2005.05.14,2005,usa,Kayaking,,Tiger,14-May-2005,May,n,M,27.301693925233646
@@ -1976,7 +1976,7 @@
 1974,2002.11.14,2002,turks & caicos,Snorkeling,41,Unspecified,14-Nov-2002,Nov,n,F,41.0
 1975,2002.11.11,2002,usa,Surfing,21,Unspecified,11-Nov-2002,Nov,n,M,21.0
 1976,2002.11.02,2002,usa,Boogie boarding,16,Unspecified,02-Nov-2002,Nov,n,M,16.0
-1977,2002.11.00.a,2002,french polynesia,"Fishing, standing in 2' of water",52,,Nov-2002,Nov,n,M,52.0
+1977,2002.11.00.a,2002,french polynesia,"Fishing, standing in 2 of water",52,,Nov-2002,Nov,n,M,52.0
 1978,2002.10.30,2002,usa,Swimming,60,Unspecified,30-Oct-2002,Oct,n,F,60.0
 1979,2002.10.14,2002,brazil,Swimming,36,Tiger,14-Oct-2002,Oct,y,M,36.0
 1980,2002.10.11,2002,usa,Surfing,21,,11-Oct-2002,Oct,n,M,21.0
@@ -2135,7 +2135,7 @@
 2133,2001.03.09,2001,usa,Surfing,,Unspecified,09-Mar-2001,Mar,n,M,27.301693925233646
 2134,2001.03.08,2001,brazil,Attempting to catch a crocodile,12,Unspecified,08-Mar-2001,Mar,,M,12.0
 2135,2001.03.03,2001,brazil,Swimming,20,,03-Mar-2001,Mar,y,M,20.0
-2136,2001.03.00,2001,caribbean sea,Sinking of the 40' Esperanza off St. Maartin with 36 refugees on board,,Tiger,Mar-2001,Mar,y,M,27.301693925233646
+2136,2001.03.00,2001,caribbean sea,Sinking of the 40 Esperanza off St. Maartin with 36 refugees on board,,Tiger,Mar-2001,Mar,y,M,27.301693925233646
 2137,2001.02.26,2001,australia,Fishing for whiting,,White,26-Feb-2001,Feb,n,M,27.301693925233646
 2138,2001.02.11,2001,malaysia,Unknown,,Unspecified,11-Feb-2001,Feb,,F,27.301693925233646
 2139,2001.02.04,2001,australia,Surfing,40,Unspecified,04-Feb-2001,Feb,n,M,40.0
@@ -2271,7 +2271,7 @@
 2269,1999.08.24,1999,usa,Surfing,,,24-Aug-1999,Aug,n,M,27.301693925233646
 2270,1999.08.23,1999,marshall islands,Fishing,23,Unspecified,23-Aug-1999,Aug,n,M,23.0
 2271,1999.08.21,1999,usa,Surfing,17,,21-Aug-1999,Aug,n,M,17.0
-2272,1999.08.16,1999,usa,Lying prone in 2' of water,10,Unspecified,16-Aug-1999,Aug,n,M,10.0
+2272,1999.08.16,1999,usa,Lying prone in 2 of water,10,Unspecified,16-Aug-1999,Aug,n,M,10.0
 2273,1999.08.05.a,1999,usa,Body surfing,62,Unspecified,05-Aug-1999,Aug,n,M,62.0
 2274,1999.08.05,1999,bahamas,Spearfishing & holding catch,35,Bull,05-Aug-1999,Aug,n,M,35.0
 2275,1999.07.29,1999,south africa,Surfing,42,White,29-Jul-1999,Jul,n,M,42.0
@@ -2291,7 +2291,7 @@
 2289,1999.04.11,1999,reunion,Swimming after being swept into sea by a large wave,52,Bull,11-Apr-1999,Apr,y,M,52.0
 2290,1999.04.01,1999,usa,Surfing,14,,01-Apr-1999,Apr,n,M,14.0
 2291,1999.03.18.R,1999,new zealand,Spearfishing & diving for paua,,Unspecified,Reported 18-Mar-1999 ,Mar,n,M,27.301693925233646
-2292,1999.03.18.b,1999,brazil,Scientific research (Dr. Sonny Gruber's student),,,18-Mar-1999,Mar,n,M,27.301693925233646
+2292,1999.03.18.b,1999,brazil,Scientific research (Dr. Sonny Grubers student),,,18-Mar-1999,Mar,n,M,27.301693925233646
 2293,1999.03.18.a,1999,usa,"Swimming, towing a kayak",29,,18-Mar-1999,Mar,y,F,29.0
 2294,1999.03.14.b,1999,new caledonia,Spearfishing,,Unspecified,14-Mar-1999,Mar,n,M,27.301693925233646
 2295,1999.03.14.a,1999,new zealand,Fishing,28,Unspecified,14-Mar-1999,Mar,n,M,28.0
@@ -2522,7 +2522,7 @@
 2520,1995.08.15,1995,usa,Wading,20,Unspecified,15-Aug-1995,Aug,n,M,20.0
 2521,1995.08.13.a,1995,usa,Swimming,15,Unspecified,13-Aug-1995,Aug,,M,15.0
 2522,1995.08.10.b,1995,usa,Surfing,20,,10-Aug-1995,Aug,n,M,20.0
-2523,1995.08.10.a,1995,usa,"""Riding waves on a board""",14,Unspecified,10-Aug-1995,Aug,n,F,14.0
+2523,1995.08.10.a,1995,usa,Riding waves on a board,14,Unspecified,10-Aug-1995,Aug,n,F,14.0
 2524,1995.08.07,1995,usa,Body boarding,12,Unspecified,07-Aug-1995,Aug,n,M,12.0
 2525,1995.08.01,1995,tonga,Fishing,,Unspecified,01-Aug-1995,Aug,,M,27.301693925233646
 2526,1995.08.00,1995,usa,Diving,,Unspecified,Aug-1995,Aug,,M,27.301693925233646
@@ -2705,7 +2705,7 @@
 2703,1992.08.18,1992,usa,Surfing,22,White,18-Aug-1992,Aug,n,M,22.0
 2704,1992.08.17,1992,usa,Snorkeling,26,Unspecified,17-Aug-1992,Aug,n,M,26.0
 2705,1992.08.00,1992,usa,Fisherman,,Unspecified,Aug-1992,Aug,,M,27.301693925233646
-2706,1992.07.23,1992,usa,"Zosimo & his son, Jeffrey Popa, failed to return from overnight fishing trip in a 14' boat, Boat apparently sank, debris recovered but his son & boat were never found",,Unspecified,23-Jul-1992,Jul,,M,27.301693925233646
+2706,1992.07.23,1992,usa,"Zosimo & his son, Jeffrey Popa, failed to return from overnight fishing trip in a 14 boat, Boat apparently sank, debris recovered but his son & boat were never found",,Unspecified,23-Jul-1992,Jul,,M,27.301693925233646
 2707,1992.07.21,1992,usa,Standing,42,Unspecified,21-Jul-1992,Jul,n,F,42.0
 2708,1992.07.08.b,1992,brazil,Surfing,,,08-Jul-1992,Jul,n,M,27.301693925233646
 2709,1992.07.08.a,1992,brazil,Surfing,,,08-Jul-1992,Jul,n,M,27.301693925233646
@@ -2810,7 +2810,7 @@
 2808,1990.02.05,1990,usa,Board sailing,33,,05-Feb-1990,Feb,n,M,33.0
 2809,1990.01.12,1990,usa,Surfing (sitting on his board),,White,12-Jan-1990,Jan,n,M,27.301693925233646
 2810,1990.00.00,1990,usa,Surfing,17,,1990,,,M,17.0
-2811,1989.12.19,1989,usa,On board 51' fishing vessel One Ki,,,19-Dec-1989,Dec,n,M,27.301693925233646
+2811,1989.12.19,1989,usa,On board 51 fishing vessel One Ki,,,19-Dec-1989,Dec,n,M,27.301693925233646
 2812,1989.12.03,1989,australia,Surfing,17,Tiger,03- Dec-1989,Dec,,M,17.0
 2813,1989.12.02,1989,australia,Swimming,27,Unspecified,02-Dec-1989,Dec,,M,27.0
 2814,1989.11.22,1989,australia,Surfing,32,White,22-Nov-1989,Nov,n,M,32.0
@@ -2824,11 +2824,11 @@
 2822,1989.10.08,1989,usa,Diving,49,Unspecified,08-Oct-1989,Oct,,M,49.0
 2823,1989.10.01,1989,australia,Surfing,,White,01-Oct-1989,Oct,,M,27.301693925233646
 2824,1989.09.17,1989,south africa,Free diving,29,White,17-Sep-1989,Sep,n,M,29.0
-2825,1989.09.13,1989,usa,"Fishing, stepped on hooked shark's head",51,Unspecified,13-Sep-1989,Sep,n,M,51.0
+2825,1989.09.13,1989,usa,"Fishing, stepped on hooked sharks head",51,Unspecified,13-Sep-1989,Sep,n,M,51.0
 2826,1989.09.10,1989,usa,Observing a shark feeding on a carcass of a humpback whale,,White,10-Sep-1989,Sep,n,M,27.301693925233646
 2827,1989.09.09.b,1989,usa,Hookah diving for abalone (descending),38,White,09-Sep-1989,Sep,n,M,38.0
 2828,1989.09.09.a,1989,usa,Surfing,31,Unspecified,09-Sep-1989,Sep,n,M,31.0
-2829,1989.09.03,1989,usa,Filming 5' blue shark,46,Unspecified,03-Sep-1989,Sep,n,M,46.0
+2829,1989.09.03,1989,usa,Filming 5 blue shark,46,Unspecified,03-Sep-1989,Sep,n,M,46.0
 2830,1989.08.29,1989,australia,Feeding fish,30,Grey,29-Aug-1989,Aug,n,M,30.0
 2831,1989.08.22.b,1989,usa,Swimming,21,Unspecified,22-Aug-1989,Aug,n,M,21.0
 2832,1989.08.22.a,1989,south africa,Surfing,21,White,22-Aug-1989,Aug,n,M,21.0
@@ -2840,7 +2840,7 @@
 2838,1989.07.19,1989,reunion,Surfing,,,19-Jul-1989,Jul,y,M,27.301693925233646
 2839,1989.07.14,1989,usa,Surfing,16,,14-Jul-1989,Jul,n,M,16.0
 2840,1989.07.07,1989,usa,Playing ,9,Unspecified,07-Jul-1989,Jul,n,F,9.0
-2841,1989.06.29,1989,usa,Fell off surfboard 20' from shore,,,29-Jun-1989,Jun,n,M,27.301693925233646
+2841,1989.06.29,1989,usa,Fell off surfboard 20 from shore,,,29-Jun-1989,Jun,n,M,27.301693925233646
 2842,1989.06.17,1989,usa,Spearfishing,45,Tiger,17-Jun-1989,Jun,n,M,45.0
 2843,1989.06.06,1989,italy,Windsurfing (urinating on his board),,White,06-Jun-1989,Jun,n,M,27.301693925233646
 2844,1989.06.05,1989,south africa,Surfing,16,White,05-Jun-1989,Jun,n,M,16.0
@@ -2878,7 +2878,7 @@
 2876,1988.09.28,1988,usa,Surfing,21,Unspecified,28-Sep-1988,Sep,n,M,21.0
 2877,1988.09.13.b,1988,usa,Walking,,Unspecified,13-Sep-1988,Sep,n,F,27.301693925233646
 2878,1988.09.13.a,1988,usa,Snorkeling,38,Bull,13-Sep-1988,Sep,y,M,38.0
-2879,1988.08.22.b,1988,usa,Diving in Sharkey's Reef restaurants aquarium,,Tiger,22-Aug-1988,Aug,n,M,27.301693925233646
+2879,1988.08.22.b,1988,usa,Diving in Sharkeys Reef restaurants aquarium,,Tiger,22-Aug-1988,Aug,n,M,27.301693925233646
 2880,1988.08.22.a,1988,italy,Surfing,16,,22-Aug-1988,Aug,n,M,16.0
 2881,1988.08.19,1988,japan,Surfing,,,19-Aug-1988,Aug,n,M,27.301693925233646
 2882,1988.08.11,1988,usa,Surfing,27,White,11-Aug-1988,Aug,n,M,27.0
@@ -2900,7 +2900,7 @@
 2898,1988.04.28,1988,reunion,pêcheur de bichiques,,,28-Apr-1988,Apr,y,M,27.301693925233646
 2899,1988.04.24,1988,usa,Surfing,,White,24-Apr-1988,Apr,n,M,27.301693925233646
 2900,1988.04.15a,1988,usa,Swimming,24,,15-Apr-1988,Apr,n,M,24.0
-2901,1988.04.15.b,1988,usa,Onboard 21' powerboat that capsized in rough seas,,Unspecified,15-Apr-1988,Apr,,M,27.301693925233646
+2901,1988.04.15.b,1988,usa,Onboard 21 powerboat that capsized in rough seas,,Unspecified,15-Apr-1988,Apr,,M,27.301693925233646
 2902,1988.04.14.b,1988,usa,Surfing,14,,14-Apr-1988,Apr,n,M,14.0
 2903,1988.04.14.a,1988,usa,Windsurfing,,,14-Apr-1988,Apr,n,M,27.301693925233646
 2904,1988.04.10,1988,south africa,Surfing,,Unspecified,10-Apr-1988,Apr,,F,27.301693925233646
@@ -2916,7 +2916,7 @@
 2914,1988.01.27,1988,south africa,Surfing,22,Unspecified,27-Jan-1988,Jan,,M,22.0
 2915,1988.01.21,1988,australia,Fell overboard  from the Taiwanese fishing trawler Lien Cheng Feu ,,Unspecified,21-Jan-1988,Jan,,M,27.301693925233646
 2916,1988.01.14,1988,usa,Fishing,,Unspecified,14-Jan-1988,Jan,n,M,27.301693925233646
-2917,1988.01.06,1988,south africa,Attempting to lasso shark's tail,33,Unspecified,06-Jan-1988,Jan,n,M,33.0
+2917,1988.01.06,1988,south africa,Attempting to lasso sharks tail,33,Unspecified,06-Jan-1988,Jan,n,M,33.0
 2918,1988.01.05.R,1988,south africa,"Returning to shore, collided with shark",,Unspecified,Reported      05-Jan-1988,Jan,n,M,27.301693925233646
 2919,1988.00.00.c,1988,australia,Surfing,12,Unspecified,1988,,n,M,12.0
 2920,1987.12.20,1987,philippines,Ferry boat Dona Paz with 4431 passengers exploded & caught fire when she collided with an  oil tanker ,,,20-Dec-1987,Dec,y,M,27.301693925233646
@@ -3052,7 +3052,7 @@
 3050,1984.07.24.b,1984,usa,Swimming,13,,24-Jul-1984,Jul,n,F,13.0
 3051,1984.07.24.a,1984,usa,Swimming,18,Unspecified,24-Jul-1984,Jul,n,F,18.0
 3052,1984.07.22,1984,south africa,Spearfishing,21,Unspecified,22-Jul-1984,Jul,,M,21.0
-3053,1984.07.01,1984,usa,"During a shark fishing tournament, the 18' Boatem was capsized by waves, throwing 3 men into the water ",30,,01-Jul-1984,Jul,n,M,30.0
+3053,1984.07.01,1984,usa,"During a shark fishing tournament, the 18 Boatem was capsized by waves, throwing 3 men into the water ",30,,01-Jul-1984,Jul,n,M,30.0
 3054,1984.07.00.a,1984,south africa,Spearfishing,,Unspecified,Jul-1984,Jul,n,M,27.301693925233646
 3055,1984.06.15,1984,south africa,Surfing,27,White,15-Jun-1984,Jun,n,M,27.0
 3056,1984.06.03.b,1984,usa,Towing her sister on plastic ski board,13,Unspecified,03-Jun-1984,Jun,n,F,13.0
@@ -3164,7 +3164,7 @@
 3162,1981.12.13.a,1981,usa,"Spearfishing, but swimming on surface",,Tiger,13-Dec-1981,Dec,n,M,27.301693925233646
 3163,1981.11.30,1981,reunion,Spearfishing,,,30-Nov-1981,Nov,n,M,27.301693925233646
 3164,1981.10.19.b,1981,south africa,Inspecting teeth of supposedly dead (hooked & shot) shark,,White,19-Oct-1981,Oct,n,M,27.301693925233646
-3165,1981.11.09,1981,usa,Diving to untangle a crab trap line from boat's propeller,59,Unspecified,09-Nov-1981,Nov,n,M,59.0
+3165,1981.11.09,1981,usa,Diving to untangle a crab trap line from boats propeller,59,Unspecified,09-Nov-1981,Nov,n,M,59.0
 3166,1981.10.19.a,1981,usa,Swimming,19,Unspecified,19-Oct-1981,Oct,n,M,19.0
 3167,1981.10.17,1981,usa,Surfing,,,17-Oct-1981,Oct,,M,27.301693925233646
 3168,1981.10.16,1981,usa,Surfing,17,,16-Oct-1981,Oct,n,M,17.0
@@ -3178,7 +3178,7 @@
 3176,1981.08.24.b,1981,usa,Spearfishing,19,Unspecified,24-Aug-1981,Aug,n,M,19.0
 3177,1981.08.24.a,1981,usa,Fishing,,Unspecified,24-Aug-1981,Aug,,M,27.301693925233646
 3178,1981.08.10.b,1981,usa,Diving,,Unspecified,10-Aug-1981,Aug,n,M,27.301693925233646
-3179,1981.08.10.a,1981,usa,"16' catamaran capsized previous night, occupants stayed with wreckage until morning, then attempted to swim ashore",19,,10-Aug-1981,Aug,y,F,19.0
+3179,1981.08.10.a,1981,usa,"16 catamaran capsized previous night, occupants stayed with wreckage until morning, then attempted to swim ashore",19,,10-Aug-1981,Aug,y,F,19.0
 3180,1981.08.07,1981,bahamas,Snorkeling on surface,53,Unspecified,07-Aug-1981,Aug,n,M,53.0
 3181,1981.07.20,1981,usa,Swimming,16,Unspecified,20-Jul-1981,Jul,n,F,16.0
 3182,1981.07.18,1981,south africa,Surfing,32,Unspecified,18-Jul-1981,Jul,n,M,32.0
@@ -3277,7 +3277,7 @@
 3275,1978.09.02.R,1978,australia,Scuba diving for abalone,34,Unspecified,Reported 02-Sep-1978,Sep,n,M,34.0
 3276,1978.08.05,1978,usa,Wading,,Unspecified,05-Aug-1978,Aug,n,M,27.301693925233646
 3277,1978.08.01.R,1978,usa,Floating on inner tube raft,27,,Reported 01-Aug-1978,Aug,n,M,27.0
-3278,1978.07.27,1978,usa,"Explosion destroyed 28' boat, survivors in the water ",39,,27-Jul-1978,Jul,n,M,39.0
+3278,1978.07.27,1978,usa,"Explosion destroyed 28 boat, survivors in the water ",39,,27-Jul-1978,Jul,n,M,39.0
 3279,1978.07.19,1978,usa,Fishing,27,,19-Jul-1978,Jul,n,M,27.0
 3280,1978.06.21.b,1978,usa,Surfing,20,,21-Jun-1978,Jun,n,M,20.0
 3281,1978.06.21.a,1978,usa,Surfing,17,,21-Jun-1978,Jun,n,M,17.0
@@ -3303,7 +3303,7 @@
 3301,1977.08.19,1977,south africa,Fishing,,White,19-Aug-1977,Aug,n,M,27.301693925233646
 3302,1977.08.14,1977,usa,Free diving for abalone (surfacing),20,White,14-Aug-1977,Aug,n,M,20.0
 3303,1977.08.05,1977,usa,Wading,17,Unspecified,05-Aug-1977,Aug,,M,17.0
-3304,1977.07.02,1977,usa,40' fishing boat sank,21,,02-Jul-1977,Jul,n,M,21.0
+3304,1977.07.02,1977,usa,40 fishing boat sank,21,,02-Jul-1977,Jul,n,M,21.0
 3305,1977.06.26,1977,usa,Spearfishing / Scuba diving,27,Bull,26-Jun-1977,Jun,n,M,27.0
 3306,1977.06.06,1977,usa,Collecting fish from net,25,Bull,06-Jun-1977,Jun,n,M,25.0
 3307,1977.05.26,1977,south africa,Fishing for yellowtail,,Unspecified,26-May-1977,May,n,M,27.301693925233646
@@ -3314,13 +3314,13 @@
 3312,1977.03.13.c,1977,australia,"Their 9 m launch was run down by a 25,000-ton Japanese freighter  on the night of 3-11-1977 & they drifted, clinging to an icebox for 2 days",32,,13-Mar-1977,Mar,n,M,32.0
 3313,1977.03.13.b,1977,australia,"Their 9 m launch was run down by a 25,000-ton Japanese freighter  on the night of 3-11-1977 & they drifted, clinging to an icebox for 2 days",74 ,,13-Mar-1977,Mar,y,M,69.0
 3314,1977.03.13.a,1977,australia,"Their 9 m launch was run down by a 25,000-ton Japanese freighter  on the night of 3-11-1977 & they drifted, clinging to an icebox for 2 days",45 ,,13-Mar-1977,Mar,y,M,45.0
-3315,1977.02.26,1977,australia,"Pushed surfmat of a young girl out of the shark's path, drawing shark's attention to his own board",24,Unspecified,26-Feb-1977,Feb,n,M,24.0
+3315,1977.02.26,1977,australia,"Pushed surfmat of a young girl out of the sharks path, drawing sharks attention to his own board",24,Unspecified,26-Feb-1977,Feb,n,M,24.0
 3316,1977.02.04,1977,australia,Surfing,,Unspecified,04-Feb-1977,Feb,,M,27.301693925233646
 3317,1977.02.00,1977,new caledonia,Surfing,,,Feb-1977,Feb,n,M,27.301693925233646
 3318,1977.01.00,1977,mexico,Swimming,,,Jan-1977,Jan,y,M,27.301693925233646
 3319,1976.12.29,1976,australia,Surfing,,,29-Dec-1976,Dec,n,M,27.301693925233646
 3320,1976.12.18,1976,usa,Hookah diving for abalone (submerged),29,White,18-Dec-1976,Dec,n,M,29.0
-3321,1976.11.27,1976,south africa,"Thrashing the water / imitating the shark victim from ""Jaws""",19,White,27-Nov-1976,Nov,n,M,19.0
+3321,1976.11.27,1976,south africa,Thrashing the water / imitating the shark victim from Jaws,19,White,27-Nov-1976,Nov,n,M,19.0
 3322,1976.11.26,1976,australia,Surfing,,Unspecified,26-Nov-1976,Nov,,M,27.301693925233646
 3323,1976.11.25,1976,usa,Surfing,19,Lemon,25-Nov-1976,Nov,n,M,19.0
 3324,1976.11.23,1976,south africa,Swimming,17,Unspecified,23-Nov-1976,Nov,,M,17.0
@@ -3343,7 +3343,7 @@
 3341,1976.06.23,1976,usa,Skindiving,17,Unspecified,23-Jun-1976,Jun,n,M,17.0
 3342,1976.06.10,1976,usa,Swimming,,Unspecified,10-Jun-1976,Jun,n,M,27.301693925233646
 3343,1976.06.02.R,1976,italy,Fishing,46,Unspecified,Reported 02-Jun-1976,Jun,n,M,46.0
-3344,1976.06.01,1976,australia,Sitting in bow of her father's 5 m boat,,Unspecified,01-Jun-1976,Jun,n,F,27.301693925233646
+3344,1976.06.01,1976,australia,Sitting in bow of her fathers 5 m boat,,Unspecified,01-Jun-1976,Jun,n,F,27.301693925233646
 3345,1976.05.02,1976,south africa,Competing in a light tackle game fishing,,Unspecified,02-May-1976,May,n,M,27.301693925233646
 3346,1976.04.28,1976,usa,Surfing,,Unspecified,28-Apr-1976,Apr,,M,27.301693925233646
 3347,1976.03.12.b,1976,usa,Standing,21 or 26,,12-Mar-1976,Mar,n,M,21.0
@@ -3664,7 +3664,7 @@
 3662,1967.10.26.R,1967,mexico,Swimming,,,Reported 26-Oct-1967,Oct,y,M,27.301693925233646
 3663,1967.10.17,1967,usa,Standing on sandbar,19,Unspecified,17-Oct-1967,Oct,n,M,19.0
 3664,1967.10.00,1967,tonga,Swimming,17,,Oct-1967,Oct,n,M,17.0
-3665,1967.09.20,1967,usa,Boat capsized between O'ahu & Molokai,,Unspecified,20-Sep-1967,Sep,,M,27.301693925233646
+3665,1967.09.20,1967,usa,Boat capsized between Oahu & Molokai,,Unspecified,20-Sep-1967,Sep,,M,27.301693925233646
 3666,1967.09.13,1967,italy,Scuba diving,21,Unspecified,13-Sep-1967,Sep,,M,21.0
 3667,1967.09.07.b,1967,papua new guinea,Diving,,,07-Sep-1967,Sep,,M,27.301693925233646
 3668,1967.09.07.a,1967,usa,Spearfishing,,,07-Sep-1967,Sep,n,M,27.301693925233646
@@ -3759,7 +3759,7 @@
 3757,1965.12.28,1965,australia,"Spearfishing, but standing in knee-deep water",40,Unspecified,28-Dec-1965,Dec,n,M,40.0
 3758,1965.12.19,1965,johnston island,Freediving,,Grey,19-Dec-1965,Dec,n,M,27.301693925233646
 3759,1965.12.10,1965,australia,Fishing,,Unspecified,10-Dec-1965,Dec,n,M,27.301693925233646
-3760,1965.11.21.b,1965,australia,Fishing from 34' boat when pulled overboard by hooked shark,43,Unspecified,21-Nov-1965,Nov,y,M,43.0
+3760,1965.11.21.b,1965,australia,Fishing from 34 boat when pulled overboard by hooked shark,43,Unspecified,21-Nov-1965,Nov,y,M,43.0
 3761,1965.11.21.a,1965,pacific ocean ,"Hauling dead shark aboard, when another shark leapt out of the water & bit him",44,,21-Nov-1965,Nov,n,M,44.0
 3762,1965.11.03.b,1965,panama,Argentine Air Force C-54,,Unspecified,03-Nov-1965,Nov,,M,27.301693925233646
 3763,1965.11.03.a,1965,australia,Surfing,24,Grey,03-Nov-1965,Nov,n,M,24.0
@@ -3904,7 +3904,7 @@
 3902,1963.07.28,1963,federated states of micronesia,Spearfishing,26,Tiger,28-Jul-1963,Jul,n,M,26.0
 3903,1963.07.15,1963,usa,Bathing,14,,15-Jul-1963,Jul,n,M,14.0
 3904,1963.07.11,1963,usa,"Fishing, on charter boat Silver Dollar",24,Unspecified,11-Jul-1963,Jul,n,M,24.0
-3905,1963.07.10.R,1963,jamaica,63' fishing boat Sno' Bay foundered,,,Reported 10-Jul-1963,Jul,y,M,27.301693925233646
+3905,1963.07.10.R,1963,jamaica,63 fishing boat Sno Bay foundered,,,Reported 10-Jul-1963,Jul,y,M,27.301693925233646
 3906,1963.07.00,1963,panama,"Seining for bait, standing in chest-deep water",,,Jul-1963,Jul,y,M,27.301693925233646
 3907,1963.06.01.b,1963,greece,Swimming,42,White,01-Jun-1963,Jun,y,F,42.0
 3908,1963.06.01.a,1963,papua new guinea,Fishing,30,Unspecified,01-Jun-1963,Jun,n,M,30.0
@@ -3913,7 +3913,7 @@
 3911,1963.04.22,1963,australia,Fishing,,Grey,22-Apr-1963,Apr,n,M,27.301693925233646
 3912,1963.04.20,1963,usa,Swimming,25,Unspecified,20-Apr-1963,Apr,y,M,25.0
 3913,1963.04.17,1963,south africa,Swimming,15,,17-Apr-1963,Apr,n,M,15.0
-3914,1963.04.13,1963,australia,"Surfing on ""chest board"" (boogie board?)",25,Unspecified,13-Apr-1963,Apr,n,M,25.0
+3914,1963.04.13,1963,australia,Surfing on chest board (boogie board?),25,Unspecified,13-Apr-1963,Apr,n,M,25.0
 3915,1963.04.12,1963,usa,Surfing ,15,Unspecified,12-Apr-1963,Apr,n,M,15.0
 3916,1963.04.08,1963,usa,Washed into sea while picking opihi,,Unspecified,08-Apr-1963,Apr,,M,27.301693925233646
 3917,1963.03.30,1963,solomon islands,The 500-ton coastal trader Polurrian foundered ,,,30-Mar-1963,Mar,y,M,27.301693925233646
@@ -3946,7 +3946,7 @@
 3944,1962.10.25,1962,mexico,Wading,32,Unspecified,25-Oct-1962,Oct,y,M,32.0
 3945,1962.10.15,1962,admiralty islands,Surfing,26,,15-Oct-1962,Oct,n,M,26.0
 3946,1962.10.14,1962,australia,Adrift after wave swamped engine,,Grey,14-Oct-1962,Oct,n,M,27.301693925233646
-3947,1962.10.06,1962,usa,"Overcome by CO fumes, fell overboard from 36' fishing cruiser & prop slashed arm",43,Unspecified,06-Oct-1962,Oct,,F,43.0
+3947,1962.10.06,1962,usa,"Overcome by CO fumes, fell overboard from 36 fishing cruiser & prop slashed arm",43,Unspecified,06-Oct-1962,Oct,,F,43.0
 3948,1962.10.00,1962,panama,Sitting in shallows,1,,Oct-1962,Oct,y,M,1.0
 3949,1962.09.30,1962,british west indies,Spearfishing,24,Unspecified,30-Sep-1962,Sep,n,M,24.0
 3950,1962.09.22,1962,mexico,Swimming,20,,22-Sep-1962,Sep,n,M,20.0
@@ -3970,7 +3970,7 @@
 3968,1962.07.07,1962,usa,Dived from inner-tube,13,,07-Jul-1962,Jul,n,M,13.0
 3969,1962.07.03.R,1962,greece,Surfing,,Unspecified,Reported 03-Jul-1962,Jul,,M,27.301693925233646
 3970,1962.06.25,1962,usa,U.S. Airforce crewman reported missing after bailing out of jet,,Unspecified,25-Jun-1962,Jun,,M,27.301693925233646
-3971,1962.06.21,1962,south africa,"On a ""shark hunt""",,Unspecified,21-Jun-1962,Jun,n,M,27.301693925233646
+3971,1962.06.21,1962,south africa,On a shark hunt,,Unspecified,21-Jun-1962,Jun,n,M,27.301693925233646
 3972,1962.06.17,1962,usa,Rolled off raft,11,Unspecified,17-Jun-1962,Jun,n,M,11.0
 3973,1962.06.11.b,1962,usa,Escaping from Alacatraz,31,,11-Jun-1962,Jun,n,M,31.0
 3974,1962.06.11.a,1962,usa,Escaping from Alacatraz,35,,11-Jun-1962,Jun,y,M,35.0
@@ -4015,7 +4015,7 @@
 4013,1962.01.07.a,1962,australia,Surfing,,,07-Jan-1962,Jan,n,M,27.301693925233646
 4014,1962.01.06,1962,south africa,Fishing,,,06-Jan-1962,Jan,n,M,27.301693925233646
 4015,1962.01.02,1962,australia,Fishing,,Unspecified,02-Jan-1962,Jan,n,M,27.301693925233646
-4016,1962.01.01,1962,marshall islands,Fishing with hand net in 2' of water,57,Unspecified,01-Jan-1962,Jan,n,M,57.0
+4016,1962.01.01,1962,marshall islands,Fishing with hand net in 2 of water,57,Unspecified,01-Jan-1962,Jan,n,M,57.0
 4017,1962.00.00.c,1962,spain,Dangling feet in the water,,,1962,,n,F,27.301693925233646
 4018,1962.00.00.b,1962,indonesia,Surfing,,,Jan-Jun-1962,Jan,y,M,27.301693925233646
 4019,1962.00.00.a,1962,australia,Diving,,,Ca. 1962,,n,M,27.301693925233646
@@ -4206,7 +4206,7 @@
 4204,1959.11.16,1959,usa,National Airlines DC7B enroute from Miami to Los Angeles with 42 or 46 people on board went down in heavy fog,,Unspecified,16-Nov-1959,Nov,,M,27.301693925233646
 4205,1959.11.15,1959,south africa,Fishing for tunny,,Unspecified,15-Nov-1959,Nov,n,M,27.301693925233646
 4206,1959.11.12.R,1959,australia,Shark fishing,,Unspecified,Reported 12-Nov-1959,Nov,n,M,27.301693925233646
-4207,1959.11.10,1959,usa,Swimming at surface through school of feeding 2.5' to 5 sharks,21,Unspecified,10-Nov-1959,Nov,n,M,21.0
+4207,1959.11.10,1959,usa,Swimming at surface through school of feeding 2.5 to 5 sharks,21,Unspecified,10-Nov-1959,Nov,n,M,21.0
 4208,1959.11.09,1959,australia,"Spearfishing, shot shark, hauled it onto boat",,Unspecified,09-Nov-1959,Nov,n,M,27.301693925233646
 4209,1959.11.01,1959,papua new guinea,Fishing,,,01-Nov-1959,Nov,n,M,27.301693925233646
 4210,1959.10.07,1959,mozambique,Swimming,X,,07-Oct-1959,Oct,y,M,27.301693925233646
@@ -4216,7 +4216,7 @@
 4214,1959.10.00,1959,fiji,Spearfishing,36,Tiger,Oct-1959,Oct,n,M,36.0
 4215,1959.09.30,1959,philippines,Swimming ,28,,30-Sep-1959,Sep,n,M,28.0
 4216,1959.09.27,1959,bermuda,Surfing,29,Unspecified,27-Sep-1959,Sep,,F,29.0
-4217,1959.09.26.b,1959,usa,"Adrift, hanging onto cushion, after his 17' skiff ran out of gas & capsized 3 miles from shore",30,Unspecified,26-Sep-1959,Sep,n,M,30.0
+4217,1959.09.26.b,1959,usa,"Adrift, hanging onto cushion, after his 17 skiff ran out of gas & capsized 3 miles from shore",30,Unspecified,26-Sep-1959,Sep,n,M,30.0
 4218,1959.09.26.a,1959,usa,Gigging for flounder,,White,26-Sep-1959,Sep,,M,27.301693925233646
 4219,1959.09.11,1959,usa,Pulling hooked salmon to boat,,White,Between 10 and 12-Sep-1959,Sep,n,M,27.301693925233646
 4220,1959.09.10.R,1959,india,Surfing,,Unspecified,Reported 10-Sep-1959,Sep,y,M,27.301693925233646
@@ -4297,7 +4297,7 @@
 4295,1958.10.05,1958,usa,Surfing,60,,05-Oct-1958,Oct,n,M,60.0
 4296,1958.10.00.b,1958,mexico,Slapped shark on tail as it swam by,,,Oct-1958,Oct,n,M,27.301693925233646
 4297,1958.10.00.a,1958,papua new guinea,Collecting shells,26,,Oct-1958,Oct,n,M,26.0
-4298,1958.09.13,1958,andaman / nicobar islandas,"""Climbing up to ship after repairing the stern in water""",32,Unspecified,13-Sep-1958,Sep,y,M,32.0
+4298,1958.09.13,1958,andaman / nicobar islandas,Climbing up to ship after repairing the stern in water,32,Unspecified,13-Sep-1958,Sep,y,M,32.0
 4299,1958.09.06,1958,bahamas,Fishing,42,Unspecified,06-Sep-1958,Sep,n,M,42.0
 4300,1958.09.01,1958,usa,Spearfishing,20,,01-Sep-1958,Sep,n,M,20.0
 4301,1958.08.31,1958,mexico,Boat stopped to repair electric pump,,Unspecified,31-Aug-1958,Aug,n,M,27.301693925233646
@@ -4384,7 +4384,7 @@
 4382,1956.12.15.R,1956,gabon,Swimming,,,Reported 15-Dec-1956,Dec,y,M,27.301693925233646
 4383,1956.12.09,1956,new zealand,Fishing,70,Unspecified,09-Dec-1956,Dec,n,M,69.0
 4384,1956.10.27,1956,south africa,Free diving for sinkers,29,White,27-Oct-1956,Oct,n,M,29.0
-4385,1956.10.20,1956,papua new guinea,"Spearfishing, holding 5' speared fish",,Unspecified,20-Oct-1956,Oct,n,M,27.301693925233646
+4385,1956.10.20,1956,papua new guinea,"Spearfishing, holding 5 speared fish",,Unspecified,20-Oct-1956,Oct,n,M,27.301693925233646
 4386,1956.10.07,1956,senegal,"Skindiving, fish at belt",19,Lemon,07-Oct-1956,Oct,n,M,19.0
 4387,1956.10.00,1956,papua new guinea,Fishing,,,Oct-1956,Oct,y,M,27.301693925233646
 4388,1956.09.23,1956,usa,Surf fishing,27,Unspecified,23-Sep-1956,Sep,n,M,27.0
@@ -4435,8 +4435,8 @@
 4433,1955.11.16,1955,papua new guinea,Swimming,8,Unspecified,16-Nov-1955,Nov,n,M,8.0
 4434,1955.11.00,1955,papua new guinea,Spearfishing,,,Nov-1955,Nov,n,M,27.301693925233646
 4435,1955.10.16,1955,australia,Spearfishing & lassoed shark,28,Unspecified,16-Oct-1955,Oct,n,M,28.0
-4436,1955.09.23.b,1955,north pacific ocean,"""Flying Tiger"" transport plane went down with 5 men onboard",,White,23-Sep-1955,Sep,y,M,27.301693925233646
-4437,1955.09.23.a,1955,north pacific ocean,"""Flying Tiger"" transport plane went down with 5 men onboard",,White,23-Sep-1955,Sep,n,M,27.301693925233646
+4436,1955.09.23.b,1955,north pacific ocean,Flying Tiger transport plane went down with 5 men onboard,,White,23-Sep-1955,Sep,y,M,27.301693925233646
+4437,1955.09.23.a,1955,north pacific ocean,Flying Tiger transport plane went down with 5 men onboard,,White,23-Sep-1955,Sep,n,M,27.301693925233646
 4438,1955.09.20,1955,usa,Hunting turtle,,,20-Sep-1955,Sep,n,M,27.301693925233646
 4439,1955.09.04,1955,usa,Swimming near breakwater,16,,04-Sep-1955,Sep,n,M,16.0
 4440,1955.09.03,1955,usa,Surfing,,,03-Sep-1955,Sep,n,M,27.301693925233646
@@ -4458,7 +4458,7 @@
 4456,1955.04.00,1955,usa,"Fishing from boat, Kaimamla",,,Apr-1955,Apr,n,M,27.301693925233646
 4457,1955.03.09,1955,australia,Body surfing,22,,09-Mar-1955,Mar,y,M,22.0
 4458,1955.03.00.b,1955,papua new guinea,Swimming with speared fish,,Unspecified,Mar-1955,Mar,n,M,27.301693925233646
-4459,1955.03.00.a,1955,australia,"Competing in U/W endurance record, standing beside drum in 10' of water",25,,Mar-1955,Mar,n,M,25.0
+4459,1955.03.00.a,1955,australia,"Competing in U/W endurance record, standing beside drum in 10 of water",25,,Mar-1955,Mar,n,M,25.0
 4460,1955.02.10,1955,usa,Scuba diving,,Unspecified,10-Feb-1955,Feb,n,M,27.301693925233646
 4461,1955.02.06,1955,usa,Spearfishing,19,White,06-Feb-1955,Feb,n,M,19.0
 4462,1955.02.05,1955,australia,Swimming,25,White,05-Feb-1955,Feb,y,M,25.0
@@ -4541,7 +4541,7 @@
 4539,1953.04.00.a,1953,iran,Swimming in midriver near sewage outlet & 400 m from a slaughterhouse,,Bull,Apr-1953,Apr,n,M,27.301693925233646
 4540,1953.03.22,1953,australia,Spearfishing,23,,Mar-1953,Mar,n,M,23.0
 4541,1953.03.19.R,1953,australia,Spearfishing,,Unspecified,Reported 19-Mar-1953,Mar,n,M,27.301693925233646
-4542,1953.03.00.c,1953,indian ocean,Adrift on a 4'  raft for 32 days,,,Mar-1953,Mar,y,M,27.301693925233646
+4542,1953.03.00.c,1953,indian ocean,Adrift on a 4  raft for 32 days,,,Mar-1953,Mar,y,M,27.301693925233646
 4543,1953.03.00.a,1953,papua new guinea,Went over side of boat at trochus ground,,Tiger,Mar-1953,Mar,y,M,27.301693925233646
 4544,1953.02.18,1953,usa,Bitten while cutting shark from net,,,18-Feb-1953,Feb,n,M,27.301693925233646
 4545,1953.02.15,1953,australia,Spearfishing,25,Unspecified,15-Feb-1953,Feb,n,M,25.0
@@ -4657,7 +4657,7 @@
 4654,1950.00.00.b,1950,new caledonia,"Helmet diving, collecting trochus shell",,,Ca. 1950,,n,M,27.301693925233646
 4655,1950.00.00.a,1950,fiji,Surfing,,,Ca. 1950,,n,M,27.301693925233646
 4656,1949.12.00.b,1949,,"Sea Disaster, sinking of the motorship Wingate",,Unspecified,Dec-1949,Dec,y,M,27.301693925233646
-4657,1949.12.00.a,1949,australia,Lying on the bottom of a 16' dinghy,35,Grey,Dec-1949,Dec,n,M,35.0
+4657,1949.12.00.a,1949,australia,Lying on the bottom of a 16 dinghy,35,Grey,Dec-1949,Dec,n,M,35.0
 4658,1949.11.20,1949,australia,Free diving or wading back to shore,36,Unspecified,20-Nov-1949,Nov,n,M,36.0
 4659,1949.11.12,1949,australia,No details,,Unspecified,12-Nov-1949,Nov,,M,27.301693925233646
 4660,1949.08.28.b,1949,australia,Swimming,21,,28-Aug-1949,Aug,n,M,21.0
@@ -4747,7 +4747,7 @@
 4744,1947.02.00,1947,brazil,Bathing,,,Feb-1947,Feb,y,M,27.301693925233646
 4745,1947.01.14,1947,australia,Rowing,17 & 16,Unspecified,14-Jan-1947,Jan,n,M,17.0
 4746,1947.01.05,1947,south africa,Treading water,18,Unspecified,05-Jan-1947,Jan,n,M,18.0
-4747,1946.12.28,1946,australia,Swimming near jetty with 2' piece of wood,23,,28-Dec-1946,Dec,n,M,23.0
+4747,1946.12.28,1946,australia,Swimming near jetty with 2 piece of wood,23,,28-Dec-1946,Dec,n,M,23.0
 4748,1946.12.24.R,1946,australia,Surfing,,Unspecified,Reported 24-Dec-1946,Dec,n,M,27.301693925233646
 4749,1946.11.20,1946,australia,Pearl diving from lugger,30,,20-Nov-1946,Nov,y,M,30.0
 4750,1946.10.26.R,1946,marshall islands,Fishing,,,Reported 26-Oct-1946,Oct,y,M,27.301693925233646
@@ -4878,7 +4878,7 @@
 4875,1942.01.18,1942,australia,Surfing,,,18-Jan-1942,Jan,n,M,27.301693925233646
 4876,1942.01.04,1942,australia,Swimming,28,Bull,04-Jan-1942,Jan,y,F,28.0
 4877,1942.01.00,1942,australia,Surf-skiing,,Unspecified,Jan-1942,Jan,n,M,27.301693925233646
-4878,1942.00.00.k,1942,indonesia,Captured Allied soldiers were squeezed into 3' bamboo pig baskets & fed to waiting sharks,,,1942,,y,M,27.301693925233646
+4878,1942.00.00.k,1942,indonesia,Captured Allied soldiers were squeezed into 3 bamboo pig baskets & fed to waiting sharks,,,1942,,y,M,27.301693925233646
 4879,1942.00.00.j,1942,australia,Fishing for perch,,,Winter 1942,,n,M,27.301693925233646
 4880,1942.00.00.i,1942,philippines,"Sailing from Gingood, Misamis Oriental to Sagay (normally a 2-day voyage) capsized with 6 on board, three men were taken by sharks when they attempted to swim to shore.",,,Summer 1942,,y,M,27.301693925233646
 4881,1942.00.00.h,1942,south africa,Surfing,,,1942,,n,M,27.301693925233646
@@ -4887,7 +4887,7 @@
 4884,1942.00.00.e,1942,,Jumped overboard from torpedoed Panamanian freighter,,,1942,,y,M,27.301693925233646
 4885,1942.00.00.d,1942,mid-pacifc ocean,"Plane forced down, 3 men on rubber life raft. Put hand over side to feel drift of boat ",,,1942,,n,M,27.301693925233646
 4886,1942.00.00.c,1942,southwest pacific ocean,Ditched plane in the sea & were adrift on a rubber life raft. ,,Tiger,1942,,n,M,27.301693925233646
-4887,1942.00.00.b,1942,,"Days before the surrender of Singapore, the 3 men escaped to Sumatra where they acquired a 17' dinghy. After 125 days at sea they drifted back to Sumatra",,,1942,,n,M,27.301693925233646
+4887,1942.00.00.b,1942,,"Days before the surrender of Singapore, the 3 men escaped to Sumatra where they acquired a 17 dinghy. After 125 days at sea they drifted back to Sumatra",,,1942,,n,M,27.301693925233646
 4888,1942.00.00.a,1942,panama,Swimming,,,1942,,y,M,27.301693925233646
 4889,1941.12.07,1941,south atlantic ocean,Torpedoed & burning British  light cruiser with a crew of 450 men,,White,07-Dec-1941,Dec,y,M,27.301693925233646
 4890,1941.12.03,1941,australia,Swimming,10,,03-Dec-1941,Dec,n,M,10.0
@@ -4901,7 +4901,7 @@
 4898,1941.08.01,1941,usa,Swimming at edge of channel,20,,01-Aug-1941,Aug,n,M,20.0
 4899,1941.07.22,1941,usa,Fishing for tuna,,Unspecified,22-Jul-1941,Jul,n,M,27.301693925233646
 4900,1941.07.01,1941,usa,Fishing,,Unspecified,01-Jul-1941,Jul,n,M,27.301693925233646
-4901,1941.06.15,1941,usa,Fishing from 32' boat,43,Unspecified,15-Jun-1941,Jun,n,M,43.0
+4901,1941.06.15,1941,usa,Fishing from 32 boat,43,Unspecified,15-Jun-1941,Jun,n,M,43.0
 4902,1941.06.00,1941,pacific ocean,"Ditched aircraft, 3 men in the water. Swam for 31 hours",,,Jun-1941,Jun,y,M,27.301693925233646
 4903,1941.03.24,1941,south atlantic ocean,The troopship Britannia was sunk by the German raider Thor,,,24-Mar-1941,Mar,n,M,27.301693925233646
 4904,1941.03.09,1941,usa,Fishing,53,Unspecified,09-Mar-1941,Mar,n,M,53.0
@@ -4971,7 +4971,7 @@
 4968,1938.08.18,1938,usa,Fishing,,,18-Aug-1938,Aug,n,M,27.301693925233646
 4969,1938.07.18,1938,usa,Swimming,,,18-Jul-1938,Jul,n,M,27.301693925233646
 4970,1938.07.17.R,1938,turkey,Fishing,,,Reported 17-Jul-1938,Jul,n,M,27.301693925233646
-4971,1938.07.17,1938,usa,"Fishing, removing gaff from shark's mouth",27,,17-Jul-1938,Jul,n,M,27.0
+4971,1938.07.17,1938,usa,"Fishing, removing gaff from sharks mouth",27,,17-Jul-1938,Jul,n,M,27.0
 4972,1938.07.12,1938,australia,"Hardhat diving from Japanese pearling lugger, Reiyo Maru",25,,12-Jul-1938,Jul,y,M,25.0
 4973,1938.06.17,1938,nicaragua,"The schooner Elizabeth, bound from Bluefields, Nicaragua to the river port of San Carlos foundered",,Bull,17-Jun-1938,Jun,y,M,27.301693925233646
 4974,1938.06.08,1938,australia,Hardhat diving,,Unspecified,08-Jun-1938,Jun,n,M,27.301693925233646
@@ -5016,8 +5016,8 @@
 5013,1937.02.11,1937,australia,Swimming ashore after launch capsized,,,11-Feb-1937,Feb,n,M,27.301693925233646
 5014,1937.02.04,1937,australia,Fishing,,,04-Feb-1937,Feb,n,M,27.301693925233646
 5015,1937.02.03,1937,australia,Fishing,20,Unspecified,03-Feb-1937,Feb,n,M,20.0
-5016,1937.02.02,1937,australia,12 of the Penang's crew were returning to the ship when their 12' dinghy capsized,,Unspecified,1937,,,M,27.301693925233646
-5017,1937.01.27,1937,australia,Holding shark's tail ,18,Grey,27-Jan-1937,Jan,n,M,18.0
+5016,1937.02.02,1937,australia,12 of the Penangs crew were returning to the ship when their 12 dinghy capsized,,Unspecified,1937,,,M,27.301693925233646
+5017,1937.01.27,1937,australia,Holding sharks tail ,18,Grey,27-Jan-1937,Jan,n,M,18.0
 5018,1937.00.00,1937,australia,Surfing,,,1937,,n,M,27.301693925233646
 5019,1936.12.30,1936,usa,"Diving, attempting to retrieve body of drowning victim wedged between rocks",,Unspecified,30-Dec-1936,Dec,n,M,27.301693925233646
 5020,1936.12.19,1936,australia,Sculling,,Unspecified,19-Dec-1936,Dec,n,M,27.301693925233646
@@ -5114,12 +5114,12 @@
 5111,1933.11.18,1933,australia,Pearl diving,17,Tiger,18-Nov-1933,Nov,n,M,17.0
 5112,1933.10.25.R,1933,australia,Diving,,,Reported 25-Oct-1933,Oct,n,M,27.301693925233646
 5113,1933.09.27.R,1933,israel,Fishing,,Unspecified,Reported 27-Sep-1933,Sep,n,M,27.301693925233646
-5114,1933.08.28.b,1933,usa,"Fishing, caught a 15' shark & took it onboard",,Unspecified,28-Aug-1933,Aug,n,M,27.301693925233646
+5114,1933.08.28.b,1933,usa,"Fishing, caught a 15 shark & took it onboard",,Unspecified,28-Aug-1933,Aug,n,M,27.301693925233646
 5115,1933.08.28.a,1933,usa,Bathing,,,28-Aug-1933,Aug,n,M,27.301693925233646
 5116,1933.08.26.R,1933,usa,Swimming,,,Reported 26-Aug-1933,Aug,n,F,27.301693925233646
 5117,1933.07.07.R,1933,usa,Surfing,50,Tiger,Reported 07-Jul-1933,Jul,n,M,50.0
 5118,1933.07.03,1933,australia,Pearl diving,,,03-Jul-1933,Jul,n,M,27.301693925233646
-5119,1933.06.21,1933,usa,Sitting in 3' of water,15,Lemon,21-Jun-1933,Jun,n,M,15.0
+5119,1933.06.21,1933,usa,Sitting in 3 of water,15,Lemon,21-Jun-1933,Jun,n,M,15.0
 5120,1933.06.16,1933,usa,Standing,,,16-Jun-1933,Jun,n,F,27.301693925233646
 5121,1933.06.13,1933,australia,Fishing,,Unspecified,13-Jun-1933,Jun,,M,27.301693925233646
 5122,1933.05.24,1933,barbados,Yacht of Michael Howell capsized,,,24-May-1933,May,y,M,27.301693925233646
@@ -5128,7 +5128,7 @@
 5125,1933.05.03,1933,cuba,Swimming to shore from capsized sailboat,,,03-May-1933,May,y,M,27.301693925233646
 5126,1933.04.10,1933,usa,Swimming,24,Tiger,10-Apr-1933,Apr,y,M,24.0
 5127,1933.02.26,1933,australia,Standing on his hands,,Unspecified,26-Feb-1933,Feb,n,M,27.301693925233646
-5128,1933.02.15.R,1933,australia,Diving for trochus  from dinghy when seized by shark 6' below the surface,,Unspecified,Reported 15-Feb-1933,Feb,n,M,27.301693925233646
+5128,1933.02.15.R,1933,australia,Diving for trochus  from dinghy when seized by shark 6 below the surface,,Unspecified,Reported 15-Feb-1933,Feb,n,M,27.301693925233646
 5129,1933.02.14,1933,australia,Surfing,,,14-Feb-1933,Feb,n,M,27.301693925233646
 5130,1933.02.12,1933,australia,Fishing,,Unspecified,12-Feb-1933,Feb,n,M,27.301693925233646
 5131,1933.01.04,1933,australia,Swimming,38,,04-Jan-1933,Jan,y,M,38.0
@@ -5330,7 +5330,7 @@
 5327,1925.03.12,1925,australia,Swimming,16,,12-Mar-1925,Mar,y,M,16.0
 5328,1925.03.10,1925,papua new guinea,Swimming,A.M.,,10-Mar-1925,Mar,y,M,27.301693925233646
 5329,1925.01.27.R,1925,usa,Swimming,,,Reported 27-Jan-1925,Jan,n,M,27.301693925233646
-5330,1925.01.08,1925,canada,"Diving, repairing water main at depth of 90'",,Unspecified,08-Jan-1925,Jan,n,M,27.301693925233646
+5330,1925.01.08,1925,canada,"Diving, repairing water main at depth of 90",,Unspecified,08-Jan-1925,Jan,n,M,27.301693925233646
 5331,1925.00.00,1925,fiji,Diving for coins tossed from passenger ship,,,1925,,n,M,27.301693925233646
 5332,1924.11.25,1924,mexico,The Ward liner Esperanza stranded during a gale & she leapt overboard to rescue her dog which had been swept overboard.,,Unspecified,25-Nov-1924,Nov,y,F,27.301693925233646
 5333,1924.11.24,1924,panama,"Inebriated, woke from sleep and fell off deck into the water ",35,,24-Nov-1924,Nov,n,M,35.0
@@ -5346,7 +5346,7 @@
 5343,1924.04.20,1924,australia,Swimming ,,Unspecified,20-Apr-1924,Apr,,M,27.301693925233646
 5344,1924.03.28.R,1924,solomon islands,Swimming,,,Reported 28-Mar-1924,Mar,n,M,27.301693925233646
 5345,1924.03.24,1924,spain,Fishing,,Unspecified,24-Mar-1924,Mar,n,M,27.301693925233646
-5346,1924.02.13,1924,australia,Bathing in 5' of water,30,,13-Feb-1924,Feb,n,F,30.0
+5346,1924.02.13,1924,australia,Bathing in 5 of water,30,,13-Feb-1924,Feb,n,F,30.0
 5347,1924.02.08,1924,australia,Bathing,,Unspecified,08-Feb-1924,Feb,,M,27.301693925233646
 5348,1924.01.29,1924,south africa,Swimming,22,,29-Jan-1924,Jan,y,M,22.0
 5349,1924.01.25,1924,south africa,Swimming,,,25-Jan-1924,Jan,n,M,27.301693925233646
@@ -5373,7 +5373,7 @@
 5370,1923.00.00.b,1923,philippines,Surfing,,,1923-1924,,y,M,27.301693925233646
 5371,1923.00.00.a,1923,usa,Hoisting shark aboard fishing boat,,,1923,,n,M,27.301693925233646
 5372,1922.12.14,1922,usa,Bathing,,,14-Dec-1922,Dec,y,F,27.301693925233646
-5373,1922.12.05,1922,australia,Bathing in 3' to 4' of water,19,Unspecified,05-Dec-1922,Dec,y,M,19.0
+5373,1922.12.05,1922,australia,Bathing in 3 to 4 of water,19,Unspecified,05-Dec-1922,Dec,y,M,19.0
 5374,1922.09.29,1922,barbados,Fishing,16,,29-Sep-1922,Sep,y,M,16.0
 5375,1922.10.29,1922,australia,Sailing,,Unspecified,29-Oct-1922,Oct,,M,27.301693925233646
 5376,1922.09.28,1922,usa,"Freediving, inspecting Kaunakakai wharf construction after blasting & dredging ",,,28-Sep-1922,Sep,n,M,27.301693925233646
@@ -5394,7 +5394,7 @@
 5391,1922.01.13,1922,australia,Standing,,Grey,13-Jan-1922,Jan,n,M,27.301693925233646
 5392,1922.01.04,1922,australia,Surfing,26,,04-Jan-1922,Jan,y,M,26.0
 5393,1921.12.11,1921,australia,Swimming,20,,11-Dec-1921,Dec,n,M,20.0
-5394,1921.11.27.b,1921,australia,Fell from his father's back into the water,8,,27-Nov-1921,Nov,y,M,8.0
+5394,1921.11.27.b,1921,australia,Fell from his fathers back into the water,8,,27-Nov-1921,Nov,y,M,8.0
 5395,1921.11.27.a,1921,australia,"Wading to dinghy, carrying his son",40,,27-Nov-1921,Nov,n,M,40.0
 5396,1921.11.15.R,1921,fiji,Swimming,,,Reported 15-Nov-1921,Nov,y,M,27.301693925233646
 5397,1921.10.12,1921,australia,Diving for beche-de-mer ,,,12-Oct-1921,Oct,n,M,27.301693925233646
@@ -5424,7 +5424,7 @@
 5421,1919.11.18,1919,australia,Sitting in a boat,,,18-Nov-1919,Nov,n,M,27.301693925233646
 5422,1919.09.12,1919,costa rica,Small vessel with 13 men on board capsized crossing the bar and 6 men drowned.  The 7 survivors were swimming to shore,,,12-Sep-1919,Sep,y,M,27.301693925233646
 5423,1919.08.10,1919,usa,Swimming,,,10-Aug-1919,Aug,n,M,27.301693925233646
-5424,1919.05.29,1919,usa,"""Swimming vigorously""",,,29-May-1919,May,n,M,27.301693925233646
+5424,1919.05.29,1919,usa,Swimming vigorously,,,29-May-1919,May,n,M,27.301693925233646
 5425,1919.04.06,1919,usa,Knocked into the water,,Unspecified,06-Apr-1919,Apr,y,M,27.301693925233646
 5426,1919.03.16,1919,australia,Cutter capsized,,Unspecified,16-Mar-1919,Mar,,M,27.301693925233646
 5427,1919.01.17,1919,australia,Swimming,,Unspecified,17-Jan-1919,Jan,n,M,27.301693925233646
@@ -5659,7 +5659,7 @@
 5656,1904.11.02,1904,philippines,Bathing alongside US Naval ship,,,02-Nov-1904,Nov,n,M,27.301693925233646
 5657,1904.10.11.R,1904,indian ocean,Fell overboard,,,Reported 11-Oct-1904,Oct,y,M,27.301693925233646
 5658,1904.09.00,1904,cuba,Lost his footing & fell overboard,,,Sep-1904,Sep,y,M,27.301693925233646
-5659,1904.08.00,1904,cuba,"Ship's boat capsized in squall, captain & 2 sailors clinging onto hull",,,Aug-1904,Aug,y,M,27.301693925233646
+5659,1904.08.00,1904,cuba,"Ships boat capsized in squall, captain & 2 sailors clinging onto hull",,,Aug-1904,Aug,y,M,27.301693925233646
 5660,1904.07.28,1904,usa,Sailing,,,28-Jul-1904,Jul,n,M,27.301693925233646
 5661,1904.07.27,1904,usa,Swimming,,,27-Jul-1904,Jul,y,M,27.301693925233646
 5662,1904.07.01.R,1904,italy,Swimming,,,Reported 01-Jul-1904,Jul,y,M,27.301693925233646
@@ -5778,7 +5778,7 @@
 5775,1896.07.25,1896,usa,Fishing,35,,25-Jul-1896,Jul,y,M,35.0
 5776,1896.06.21.R,1896,usa,Bathing,,,Reported 21-Jun-1896,Jun,n,M,27.301693925233646
 5777,1896.01.11,1896,australia,Bathing,11,, 11-Jan-1896,Jan,y,M,11.0
-5778,1896.00.00.b,1896,usa,"Swimming ashore from a ""filibuster""",,,1896,,y,M,27.301693925233646
+5778,1896.00.00.b,1896,usa,Swimming ashore from a filibuster,,,1896,,y,M,27.301693925233646
 5779,1896.00.00.a,1896,haiti,Wading,15,,1896,,n,M,15.0
 5780,1895.12.09,1895,australia,Bathing,14,,09-Dec-1895,Dec,y,M,14.0
 5781,1895.11.21.R,1895,barbados,Diving for coins,,,Reported 21-Nov-1895,Nov,n,M,27.301693925233646
@@ -5792,8 +5792,8 @@
 5789,1895.06.13.R,1895,,Diving,,,Reported 13-Jun-1895,Jun,n,M,27.301693925233646
 5790,1895.06.03.R,1895,australia,Pearl diving,,,Reported 03-Jun-1895,Jun,y,M,27.301693925233646
 5791,1895.05.21,1895,bahamas,Sea Disaster : Wreck of the Carrie E. Long,,,21-May-1895,May,n,M,27.301693925233646
-5792,1895.05.03,1895,new zealand,"""Boat accident""",,,03-May-1895,May,y,M,27.301693925233646
-5793,1895.04.29,1895,south africa,"""Crossing the river""",28,,29-Apr-1895,Apr,y,M,28.0
+5792,1895.05.03,1895,new zealand,Boat accident,,,03-May-1895,May,y,M,27.301693925233646
+5793,1895.04.29,1895,south africa,Crossing the river,28,,29-Apr-1895,Apr,y,M,28.0
 5794,1895.04.23,1895,new zealand,Swimming,,,23-Apr-1895,Apr,n,M,27.301693925233646
 5795,1895.03.29.R,1895,indonesia,Swimming,,,Reported 29-Mar-1895,Mar,y,M,27.301693925233646
 5796,1895.03.15,1895,australia,Swimming,13,,15-Mar-1895,Mar,n,M,13.0
@@ -5956,7 +5956,7 @@
 5953,1882.02.07.R,1882,australia,Pearl diving,,,Reported  07-Feb-1882,Feb,y,M,27.301693925233646
 5954,1882.01.23.R,1882,australia,Bathing,,,Reported 23-Jan-1882,Jan,y,M,27.301693925233646
 5955,1882.01.05.R,1882,atlantic ocean,Fell overboard from the Selim,,,Reprted 05-Jan-1882,Jan,y,M,27.301693925233646
-5956,1882.00.00.b,1882,usa,"During ""an exhibition"" he was tied in sack & thrown overboard ",,,1882,,n,M,27.301693925233646
+5956,1882.00.00.b,1882,usa,During an exhibition he was tied in sack & thrown overboard ,,,1882,,n,M,27.301693925233646
 5957,1882.00.00.a,1882,australia,Surfing,,,1882,,n,M,27.301693925233646
 5958,1881.11.13,1881,australia,Swimming,,Unspecified,13-Nov-1881,Nov,,M,27.301693925233646
 5959,1881.10.16,1881,usa,Bathing,18,Unspecified,16-Oct-1881,Oct,,M,18.0
@@ -6217,7 +6217,7 @@
 6214,1842.07.13,1977,usa,Swimming,15,,13-Jul-1842,Jul,n,M,15.0
 6215,1842.07.06,1977,usa,Harassing a shark,,,06-Jul-1842,Jul,n,M,27.301693925233646
 6216,1842.00.00.b,1977,india,Washed off catamaran in the surf,7 or 8,,1842,,y,M,7.0
-6217,1842.00.00.a,1977,australia,"Unknown, but it was said to be the ""First known attack in Sydney Harbour""",,,1842,,n,M,27.301693925233646
+6217,1842.00.00.a,1977,australia,"Unknown, but it was said to be the First known attack in Sydney Harbour",,,1842,,n,M,27.301693925233646
 6218,1841.03.27,1977,australia,Bathing,,,27-Mar-1841,Mar,y,M,27.301693925233646
 6219,1840.12.00,1977,australia,Swimming,,,Dec-1840,Dec,y,M,27.301693925233646
 6220,1840.09.18.R,1977,fiji,Surfing,,,Reported 18-Sep-1840,Sep,n,M,27.301693925233646
@@ -6283,4 +6283,4 @@
 6280,1803.05.17,1977,usa,Surfing,,,May-17-1803,May,n,M,27.301693925233646
 6281,1803.03.00,1977,australia,Surfing,,,Mar-1803,Mar,n,M,27.301693925233646
 6282,1802.04.13.R,1977,india,Surfing,,,Reported Apr-13-1802,Apr,y,M,27.301693925233646
-6283,1801.12.18.R,1977,,Standing on landed shark's tail,,Unspecified,Reported 18-Dec-1801,Dec,y,F,27.301693925233646
+6283,1801.12.18.R,1977,,Standing on landed sharks tail,,Unspecified,Reported 18-Dec-1801,Dec,y,F,27.301693925233646
